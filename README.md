@@ -11,6 +11,9 @@
   <a href="index.html">home</a>
   <a href="Joshua_Warit_inspirationPage/">inspiration</a>
   <a href="Joshua_Warit_topfivePage/">top five</a>
+  <a href="warit_spirit_page/">pom spirit</a>
+  <a href="joshua_warit_multi_column 2/">my favorite quote</a>
+        
    </nav>
    </header>
        <em><strong><h1>my name is joshua warit</h1></strong></body></em>
